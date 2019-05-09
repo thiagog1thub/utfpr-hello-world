@@ -20,6 +20,5 @@ Ontem foi quinta!
 int main() {
 ```
 printf("Eu amo a utfpr");
-
 ```
 }
