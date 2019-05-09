@@ -16,8 +16,9 @@ Ontem foi quinta!
 6. sábado
 7. domingo
 
-
+int main() {
 ```
 printf("Eu amo a utfpr");
 
 ```
+}
