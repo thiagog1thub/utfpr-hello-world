@@ -19,6 +19,6 @@ Ontem foi quinta!
 
 ```
 int main() {
-printf("Eu amo a utfpr");
+    printf("Eu amo a utfpr");
 }
 ```
