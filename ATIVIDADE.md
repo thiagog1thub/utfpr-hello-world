@@ -1,10 +1,10 @@
-#Titulo 1
+# Titulo 1
 Hoje é sexta!
 
-##Titulo 2
+## Titulo 2
 Amanhã é sábado!
 
-###Titulo 3
+### Titulo 3
 Ontem foi quinta!
 
 
